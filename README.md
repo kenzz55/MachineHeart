@@ -44,4 +44,7 @@ Source/
 
 
 ## 🎥 Gameplay Video
+
+썸네일 클릭시 영상 재생  
+
 [![Watch the video](https://img.youtube.com/vi/2L8G2qruhKM/maxresdefault.jpg)](https://www.youtube.com/watch?v=2L8G2qruhKM)
