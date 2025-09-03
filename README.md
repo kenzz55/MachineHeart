@@ -1,5 +1,5 @@
 # MachineHeart
-<img width="330" height="200" alt="적상태 PNG" src="https://github.com/user-attachments/assets/85357508-dff5-4b2d-9761-a14529cf53c6" /> <img width="330" height="250" alt="저스트가드 PNG" src="https://github.com/user-attachments/assets/2f3b126f-df93-4adf-9bfb-c1b92a68f470" /><img width="330" height="200" alt="무기선택 PNG" src="https://github.com/user-attachments/assets/bf3adebd-f8ce-445e-b2be-d6cf35d9d219" />
+<img width="330" height="200" alt="적상태 PNG" src="https://github.com/user-attachments/assets/85357508-dff5-4b2d-9761-a14529cf53c6" /> <img width="330" height="200" alt="무기선택 PNG" src="https://github.com/user-attachments/assets/bf3adebd-f8ce-445e-b2be-d6cf35d9d219" />
 
 
 
